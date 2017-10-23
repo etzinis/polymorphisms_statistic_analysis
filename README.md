@@ -22,4 +22,5 @@ Confidence Interval 95% was computed with the following expression:
 <a href="https://www.codecogs.com/eqnedit.php?latex=Upper&space;Limit&space;=&space;exp(ln(OddsRatio)&plus;1.96*\sqrt{\sum&space;\frac{1}{Matrix[i,j]}}))" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Lower&space;Limit&space;=&space;exp(ln(OddsRatio)&plus;1.96*\sqrt{\sum&space;\frac{1}{Matrix[i,j]}}))" title="Upper Limit = exp(ln(OddsRatio)-1.96*\sqrt{\sum \frac{1}{Matrix[i,j]}}))" /></a>
 
 Visualization of the similarity betwen the populations:
+
 [![polys.png](https://s1.postimg.org/3jqql5v92n/polys.png)](https://postimg.org/image/4c3m2wbusr/)
