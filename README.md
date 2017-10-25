@@ -1,5 +1,5 @@
 # polymorphisms_statistic_analysis
-Code for my contribution in a medicine related project/paper in colaboration with National and Kapodistrian University of Athens. 
+Code for my contribution in a medicine related project/paper in collaboration with National and Kapodistrian University of Athens. 
 
 Statistical analysis of alleles distribution was performed in contingency tables 2x2 (1 degree of freedom) and odd ratios (ORs), as well as the corresponding confidence intervals (95% CI) were calculated. (Let Matrix ) Fisher Exact test was used for evaluating the statistical significance. https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.fisher_exact.html
 
